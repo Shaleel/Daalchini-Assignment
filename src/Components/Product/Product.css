@@ -1,0 +1,59 @@
+.product {
+  padding: 1rem;
+  border-bottom: 1px solid lightgrey;
+  display: flex;
+}
+.product-img {
+  height: 100px;
+  width: 100px;
+}
+.product-info {
+  flex: 1;
+  padding: 0.5rem;
+}
+.product-description {
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+}
+.price-row {
+  display: flex;
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+  position: relative;
+}
+.discounted-price {
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+.price {
+  text-decoration: line-through;
+  color: rgb(188, 188, 188);
+  font-weight: bold;
+}
+.counter-wrapper {
+  position: absolute;
+  right: 0;
+}
+.add-btn {
+  background: rgb(0, 189, 101);
+  color: white;
+  border: none;
+  border-radius: 0.2rem;
+  border: 2px solid rgb(0, 189, 101);
+  padding: 0.2rem 0.5rem;
+}
+.counter {
+  border: 2px solid rgb(0, 189, 101);
+  font-size: 1rem;
+  color: rgb(0, 189, 101);
+  font-weight: bold;
+  width: 60px;
+  display: flex;
+  justify-content: space-between;
+}
+.counter > button {
+  padding: 0.2rem 0.5rem;
+  font-weight: bold;
+  background: transparent;
+  border: none;
+}

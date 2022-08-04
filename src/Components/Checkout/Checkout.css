@@ -1,0 +1,18 @@
+.checkout {
+  height: 80%;
+}
+.checkout-content {
+  text-align: left;
+}
+.muted {
+  color: gray;
+  border-bottom: 1px solid lightgrey;
+  padding: 0.5rem;
+}
+.checkout-content > input {
+  width: 100%;
+  border: none;
+  padding: 0.5rem;
+  outline: none;
+  margin-bottom: 2rem;
+}
