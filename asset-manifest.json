@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89fe2d1b.css",
+    "main.js": "/static/js/main.868eae17.js",
+    "static/media/ajwain-paratha.webp": "/static/media/ajwain-paratha.d96fe12b20b146eb25f9.webp",
+    "static/media/question.svg": "/static/media/question.a177a00fbae915084a96c7bc2547fa74.svg",
+    "static/media/info.svg": "/static/media/info.5e6cf6c1766d3d6e4b8479a330e675c2.svg",
+    "static/media/success.svg": "/static/media/success.586e50f2bac1fb7723a27dfbdaf2ee43.svg",
+    "index.html": "/index.html",
+    "static/media/warning.svg": "/static/media/warning.d185eaecd976232e0da27010ee0cb550.svg",
+    "main.89fe2d1b.css.map": "/static/css/main.89fe2d1b.css.map",
+    "main.868eae17.js.map": "/static/js/main.868eae17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89fe2d1b.css",
+    "static/js/main.868eae17.js"
+  ]
+}
