@@ -2,19 +2,19 @@
 
 [Live Preview](https://shaleel.github.io/Daalchini-Assignment).
 
-####First Screen
+#### First Screen
 
 <img style="width:329px;" src="/screenshots/first.png" />
 
-####Add to Cart feature
+#### Add to Cart feature
 
 <img style="width:329px;" src="/screenshots/second.png" />
 
-####Cart Details
+#### Cart Details
 
 <img style="width:329px;" src="/screenshots/third.png" />
 
-####Login
+#### Login
 
 <img style="width:329px;" src="/screenshots/fourth.png" />
 
@@ -22,8 +22,10 @@
 
 <img style="width:329px;" src="/screenshots/sixth.png" />
 
-####Checkout
+#### Checkout
+
 <img style="width:329px;" src="/screenshots/seventh.png" />
 
-####Order Confirmation
+#### Order Confirmation
+
 <img style="width:329px;" src="/screenshots/eighth.png" />
